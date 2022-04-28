@@ -1,6 +1,8 @@
 # roman-numerals
 Coding Challenge
 
+Firstly, please know that my README.md file is in the main branch, but the REST of my code is in the master branch. Please let me know if you have any issues with that. 
+
 My first thought was to make a simple web app that allows the user to input a number in roman numerals, however, I was not able to finish the program,
 so much of this is incomplete. 
 
